@@ -1,7 +1,7 @@
 export const offices = [
   {
     name:'Counseling Center',
-    img:'https://www.umkc.edu/chtc/images/counselinggraphic_big.jpg'
+    img:'https://alleghenycampus.com/wp-content/uploads/2015/02/15826513503_d258a3704e_z.jpg'
   },
   {
     name:'Health Center',
